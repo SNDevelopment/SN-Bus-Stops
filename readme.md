@@ -26,7 +26,7 @@ A comprehensive bus transportation system for QBCore Framework that allows playe
 
 ```cfg
 ensure ox_lib
-ensure eb-busstops
+ensure SN-Bus-Stops
 ```
 
 ## Configuration
